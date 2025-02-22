@@ -3,6 +3,8 @@ git remote add origin https://github.com/AKS-V02/test-lab.git
 git branch -M main
 git push -u origin main
 
+================================================================
+
 ***to start the app use below cmd***
 mvn package(provided maven is installed or use ./mvnw in place of mvn)
 mvn spring-boot:run(this should be run where pom file is) 
